@@ -1,0 +1,8 @@
+{
+  "name": "Private",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pednekar-saga/node-roadmap-2019.git",
+  "author": "sagar pednekar <sagarpednekar04@gmail.com>",
+  "license": "MIT"
+}
